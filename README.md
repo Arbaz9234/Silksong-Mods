@@ -25,6 +25,10 @@ Compiled DLLs will be generated in:
 bin/Debug/
 ```
 
+If you are new to Silksong modding, start with this setup/tutorial guide:
+
+👉 https://www.youtube.com/watch?v=QMiWbu0il6w
+
 ---
 
 # Nexus Mods
