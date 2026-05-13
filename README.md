@@ -4,7 +4,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 
 ## Mods
 
-- AbilitiesToggle
+- [AbilitiesToggle](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AbilitiesToggle)
 
 ---
 
