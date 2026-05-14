@@ -1,4 +1,4 @@
-# All Crest will Crit
+# All Crests will Crit
 
 This mod enables critical hits for all Crests (not just the Wanderer Crest) with crit chance modifier. Update: Added a balanced version to gain a chance increase per extra silk than the bind cost.
 
