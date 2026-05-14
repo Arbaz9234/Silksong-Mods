@@ -5,6 +5,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 ## Mods
 
 - [AbilitiesToggle](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AbilitiesToggle)
+- [AllCrestsCrit](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AllCrestsCrit)
 
 ---
 
