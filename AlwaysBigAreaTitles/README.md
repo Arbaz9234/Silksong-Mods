@@ -1,19 +1,18 @@
-# All Crests will Crit
+# Always Big Area Title
 
-This mod enables critical hits for all Crests (not just the Wanderer Crest) with crit chance modifier. Update: Added a balanced version to gain a chance increase per extra silk than the bind cost.
+A simple mod that shows area name in big when you enter it, like it would show when you first enter the zone.
 
 ## Overview
 
-Critical Hit for all crests.
+A simple, lightweight mod that displays a large area title card when entering a new location.
 
 ## Features
 
-- Deal 3x damage with a critical hit. (100% chance means each hit)
-- Configurable chances of critical hit. (Default is 2%)
-
-For players who want the critical hit effect with other crests as well, not be limited to the Wanderer.
+- Vanilla behavior for the name card when first entering a new room
+- Always get big title card for re-entering a location
+- Make Big title cards for sub-areas as well
 
 ## Nexus Mods
 
 Download the compiled release here:  
-https://www.nexusmods.com/hollowknightsilksong/mods/915
+https://www.nexusmods.com/hollowknightsilksong/mods/937
