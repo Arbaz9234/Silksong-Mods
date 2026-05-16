@@ -4,7 +4,7 @@ Collection of lightweight Silksong mods that keep specific tools permanently act
 
 ## Included Mods
 
-- [AlwaysFracturedMask](https://github.com/Arbaz9234/Silksong-Mods/tree/main/Always%20Active%20Tools/AlwaysFracturedMask)
+- [AlwaysFracturedMask](./AlwaysFracturedMask)
 
 Each mod is contained in its own folder with a dedicated README explaining functionality, setup, and configuration.
 

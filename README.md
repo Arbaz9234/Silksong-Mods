@@ -4,10 +4,10 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 
 ## Mods
 
-- [AbilitiesToggle](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AbilitiesToggle)
-- [AllCrestsCrit](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AllCrestsCrit)
-- [AlwaysBigAreaTitles](https://github.com/Arbaz9234/Silksong-Mods/tree/main/AlwaysBigAreaTitles)
-- [AlwaysActiveTools](https://github.com/Arbaz9234/Silksong-Mods/tree/main/Always%20Active%20Tools)
+- [AbilitiesToggle](./AbilitiesToggle)
+- [AllCrestsCrit](./AllCrestsCrit)
+- [AlwaysBigAreaTitles](./AlwaysBigAreaTitles)
+- [AlwaysActiveTools](<./Always Active Tools>)
 
 ---
 
