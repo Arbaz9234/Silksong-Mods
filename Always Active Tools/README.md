@@ -8,5 +8,3 @@ Collection of lightweight Silksong mods that keep specific tools permanently act
 - [AlwaysHasWhiteFlower](./AlwaysHasWhiteFlower)
 
 Each mod is contained in its own folder with a dedicated README explaining functionality, setup, and configuration.
-
----
