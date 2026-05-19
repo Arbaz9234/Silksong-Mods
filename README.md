@@ -9,6 +9,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 - [AlwaysBigAreaTitles](./AlwaysBigAreaTitles)
 - [AlwaysActiveTools](<./Always Active Tools>)
 - [AlwaysHitKratt](./AlwaysHitKratt)
+- [SilkOnHit](./SilkOnHit)
 
 ---
 
