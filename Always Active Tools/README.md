@@ -6,5 +6,6 @@ Collection of lightweight Silksong mods that keep specific tools permanently act
 
 - [AlwaysFracturedMask](./AlwaysFracturedMask)
 - [AlwaysHasWhiteFlower](./AlwaysHasWhiteFlower)
+- [AlwaysLongNeedle](./AlwaysLongNeedle)
 
 Each mod is contained in its own folder with a dedicated README explaining functionality, setup, and configuration.
