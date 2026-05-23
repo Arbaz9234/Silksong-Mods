@@ -12,6 +12,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 - [SilkOnHit](./SilkOnHit)
 - [BindAutoSilkSkill](./BindAutoSilkSkill)
 - [RosaryToShardConverter](./RosaryToShardConverter)
+- [PollipPouch2XEffect](./PollipPouch2XEffect)
 
 ---
 
