@@ -29,6 +29,8 @@ cd silksong-mods
 ```
 
 Open the `.sln` file in Visual Studio 2022 and build the project.
+Compile the project with CTRL + B.
+
 
 Compiled DLLs will be generated in:
 
