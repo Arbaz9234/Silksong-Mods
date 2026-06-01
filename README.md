@@ -11,6 +11,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 - [AlwaysHitKratt](./AlwaysHitKratt)
 - [BindAutoSilkSkill](./BindAutoSilkSkill)
 - [CogBindFlier](./CogBindFlier)
+- [DisableShamanRunes](DisableShamanRunes)
 - [DoubleReaperAndBeastCrestDuration](./DoubleReaperAndBeastCrestDuration)
 - [PollipPouch2XEffect](./PollipPouch2XEffect)
 - [RosaryToShardConverter](./RosaryToShardConverter)
