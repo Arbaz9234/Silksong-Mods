@@ -14,7 +14,7 @@ Adds alternative behaviors to Muckmaggot poison in Hollow Knight: Silksong, lett
 
 Best for: Players who want a fair but less punishing experience.
 
-## V2: Auto-Cleanse on Exit (Coming Soon)
+## V2: Auto-Cleanse on Exit
 
 - Hornet gets infected while inside the maggot pool
 - All normal maggot effects apply
