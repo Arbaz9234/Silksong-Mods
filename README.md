@@ -6,8 +6,8 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 
 - [AbilitiesToggle](./AbilitiesToggle)
 - [AllCrestsCrit](./AllCrestsCrit)
-- [AlwaysBigAreaTitles](./AlwaysBigAreaTitles)
 - [AlwaysActiveTools](<./Always Active Tools>)
+- [AlwaysBigAreaTitles](./AlwaysBigAreaTitles)
 - [AlwaysHitKratt](./AlwaysHitKratt)
 - [BindAutoSilkSkill](./BindAutoSilkSkill)
 - [CogBindFlier](./CogBindFlier)
@@ -32,7 +32,6 @@ cd silksong-mods
 
 Open the `.sln` file in Visual Studio 2022 and build the project.
 Compile the project with CTRL + B.
-
 
 Compiled DLLs will be generated in:
 

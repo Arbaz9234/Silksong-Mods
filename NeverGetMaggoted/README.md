@@ -23,7 +23,7 @@ Best for: Players who want a fair but less punishing experience.
 
 Best for: Players who want environmental danger without lingering punishment.
 
-## V3: Complete Immunity (Coming Soon)
+## V3: Complete Immunity
 
 - Hornet is fully immune to Muckmaggot poison
 - No infection, no silk drain, no debuffs
