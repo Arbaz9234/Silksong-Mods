@@ -15,6 +15,7 @@ Collection of my Hollow Knight: Silksong mods written in C#.
 - [DoubleReaperAndBeastCrestDuration](./DoubleReaperAndBeastCrestDuration)
 - [NeverGetMaggoted](./NeverGetMaggoted)
 - [PollipPouch2XEffect](./PollipPouch2XEffect)
+- [RefundSilkOnFailedParry](./RefundSilkOnFailedParry)
 - [RosaryToShardConverter](./RosaryToShardConverter)
 - [SilkOnHit](./SilkOnHit)
 - [StartAct3Early](./StartAct3Early)
