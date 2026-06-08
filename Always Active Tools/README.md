@@ -9,6 +9,7 @@ Collection of lightweight Silksong mods that keep specific tools permanently act
 - [AlwaysLongNeedle](./AlwaysLongNeedle)
 - [AlwaysMusicianCharm](./AlwaysMusicianCharm)
 - [AlwaysVoltFilament](./AlwaysVoltFilament)
+- [AlwaysWeavelight](./AlwaysWeavelight)
 - [LastMaskProtection](./LastMaskProtection)
 
 Each mod is contained in its own folder with a dedicated README explaining functionality, setup, and configuration.
