@@ -8,6 +8,7 @@ Collection of lightweight Silksong mods that keep specific tools permanently act
 - [AlwaysHasWhiteFlower](./AlwaysHasWhiteFlower)
 - [AlwaysLongNeedle](./AlwaysLongNeedle)
 - [AlwaysMusicianCharm](./AlwaysMusicianCharm)
+- [AlwaysShellSatchel](./AlwaysShellSatchel)
 - [AlwaysVoltFilament](./AlwaysVoltFilament)
 - [AlwaysWeavelight](./AlwaysWeavelight)
 - [LastMaskProtection](./LastMaskProtection)
